@@ -1,4 +1,4 @@
-# Time Complexity : O(2^n)
+# Time Complexity : O(3^n)
 # space complexity : O(n)
 
 # Approach :
